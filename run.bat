@@ -1,0 +1,1 @@
+java -Xmx2000m -cp ".\bin;.\lib\*" org.testng.TestNG testng.xml
